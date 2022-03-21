@@ -1,2 +1,2 @@
 #Mein erstes Repositorium
-- Maja Magel
+- Maja M
