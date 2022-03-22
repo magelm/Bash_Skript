@@ -1,4 +1,4 @@
 #Mein erstes Repositorium
-#basierend auf FDM1 Kurs
+Meine Bash-Skripte
 - 2022-03-22
 - Maja Magel
